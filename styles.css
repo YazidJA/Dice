@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+
+.dice {
+  display: flex;
+  flex: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  width: 460px;
+  margin: 20px auto 0 auto;
+  color: white;
+  background-color: red;
+}
