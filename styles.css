@@ -4,27 +4,29 @@ body {
 }
 
 h1 {
-  margin: 30px;
-  font-family: "Lobster", cursive;
+  margin: 4vh auto 2vh auto;
+  font-family: "Chango", cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 4vh;
   color: #4ecca3;
 }
 
 .dice {
-  display: flex;
-  flex: center;
-  flex-wrap: wrap;
+  min-height: 65vh;
   justify-content: center;
 }
 
 img {
-  width: 80%;
+  margin: 1vh auto;
+  width: 30vh;
 }
 
 button {
-  width: 460px;
+  font-family: "Chango", cursive;
+  font-size: 3vh;
+  width: 30vh;
+  height: 10vh;
   margin: 20px auto 0 auto;
   color: white;
-  background-color: red;
+  background-color: rgb(156, 6, 12);
 }
