@@ -1,0 +1,31 @@
+body {
+  background-color: #1b2021;
+  color: #eac8af;
+  text-align: center;
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.4vh;
+}
+
+h1 {
+  margin: 4vh auto 2vh auto;
+}
+
+img {
+  margin: 2vh auto;
+  width: 30vh;
+}
+
+button {
+  width: 30vh;
+  height: 10vh;
+  font-family: "Press Start 2P", cursive;
+  font-size: 2vh;
+  background-color: #d8ac9c;
+  color: #1b2021;
+  border-color: #eac8af;
+  margin-top: 2vh;
+}
+
+button:hover {
+  background-color: #eac8af;
+}
