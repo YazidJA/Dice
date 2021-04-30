@@ -1,3 +1,3 @@
 # Dice
- 
-Roll the dice with javascript !
+App to roll dices.
+Made with HTML/CSS/Javascript.
