@@ -10,3 +10,8 @@ function roll() {
 }
 
 btn.addEventListener("click", roll);
+document.addEventListener("keypress", function (e) {
+  if (e.key === "Enter" || "Space") {
+    roll()
+  }
+});
